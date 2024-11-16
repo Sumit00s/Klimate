@@ -1,4 +1,4 @@
-import React = require("react")
+import type { PropsWithChildren } from "react";
 
 const Layout = ({children}:React.PropsWithChildren) => {
   return (
